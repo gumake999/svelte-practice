@@ -1,1 +1,9 @@
-
+.btn-number-item.svelte-ydum65{border:1px solid #000;padding:1rem;margin:0;cursor:pointer;transition:all 0.2s;flex:1 1 30%;&:active {
+      transform: scale(0.99);
+    }}
+.calculator-sign-item.svelte-1fmqfjv{padding:1rem;border:1px solid #000;cursor:pointer;flex:1;&:active {
+     transform: scale(0.99);
+   };&.full {
+     width: 100%;
+   }}
+.input-view.svelte-m1a4vu{text-align:right}.button-wrap.svelte-m1a4vu{width:100%;display:flex;gap:0.5rem}.number-wrap.svelte-m1a4vu{flex:1 1 55%;display:flex;flex-wrap:wrap;gap:0.5rem}.sign-wrap.svelte-m1a4vu{flex:1 1 26%}
